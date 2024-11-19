@@ -1,5 +1,5 @@
 ## Description 
-InsiWind is an innovative tool designed to enhance privacy during screen-sharing sessions itis a robust privacy-focused tool developed to ensure secure and distraction-free screen-sharing experiences. It empowers users to selectively hide specific application windows from the shared screen while keeping them fully visible and interactive on their own system. Whether in professional meetings or personal presentations, InsiWind ensures confidentiality without compromising usability,Designed exclusively for maintaining confidentiality in professional settings and safeguarding sensitive information, InsiWind is a reliable solution for enhancing privacy.
+InsiWind is an innovative tool designed to enhance privacy during screen-sharing sessions itis a robust privacy-focused tool developed to ensure secure and distraction-free screen-sharing experiences. It empowers users to selectively hide specific application windows from the shared screen while keeping them fully visible and interactive on their own system. Whether in professional meetings or personal presentations, InsiWind ensures confidentiality without compromising usability,Designed exclusively for maintaining confidentiality in professional settings and safeguarding sensitive information, InsiWind is a reliable solution for enhancing privacy making it ideal for corporate environments and online meetings.
 
 ## So .. what does it do exactly?
 
@@ -17,10 +17,10 @@ Using this tool, firefox and slack have been hidden so anyone watching the scree
 _Note: this tool works with any app (MS Teams, Discord, OBS, etc) and not just Zoom._
 ##
 Tech Stack
-Programming Language: C++
-Frameworks: WinAPI for system-level window management
-Development Tools: Visual Studio 2022
-Additional Libraries: Custom-built DLL for enhanced functionality
+1)programming Language: C++   with use of DLL and Injector 
+2)Frameworks: WinAPI for system-level window management
+3)Development Tools: Visual Studio 2022
+4)Additional Libraries: Custom-built DLL for enhanced functionality
 
 ### So .. what does it do exactly? (for technical people)
 
